@@ -4,3 +4,4 @@ transformers==2.1.0
 fastapi==0.111.0
 torch==1.7.1
 onnxruntime==1.6.0
+uvicorn==0.30.0
